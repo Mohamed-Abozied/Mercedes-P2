@@ -1,0 +1,44 @@
+#contLeft {
+    width: 620px;
+    float: left;
+}
+
+#contLeft img {
+    border: thin solid #fff;
+    padding: 3px;
+}
+
+#contLeft div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#contRight {
+    width: 250px;
+    
+    float: right;
+}
+
+#contRight h2, #contRight h3 {
+    color:#ff6646;
+    font-size: 0.9rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#contRight h2{
+    color:#ff6646;
+}
+
+#contRight h3{
+    color: #21a3ee;
+}
+
+#contRight p {
+    font-size: 0.8rem;
+}
+
+
+
+
+
